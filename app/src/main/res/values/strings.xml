@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="weight_label">W: %s kg</string>
+    <string name="height_label">H: %s m</string>
+    <string name="pokemon_image_content_description">Missing Image  :(</string>
+    <string name="Error_internet">No connection</string>
+    <string name="pokemon_hp">HP: %s</string>
+    <string name="base_exp">Base XP: %s</string>
+    <string name="attack">ATK: %s</string>
+    <string name="defence">DEF: %s</string>
+    <string name="speed">SPD: %s</string>
+    <string name="specialattack">S.ATK: %s</string>
+    <string name="specialdefense">S.DEF: %s</string>
+    <string name="descr_pokemon_recyclerview">Poke Selfie</string>
+</resources>
